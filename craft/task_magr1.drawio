@@ -1,6 +1,6 @@
-<mxfile modified="2021-02-24T02:31:41.551Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="7Go8vD84tIhnSZ7pauD2" version="14.4.2" type="github">
+<mxfile modified="2021-02-24T03:23:04.612Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="AxNtrh7eyBWGLyqqjbd3" version="14.4.2" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="782" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
           <mxGeometry x="250" y="350" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2" value="Flow &amp;amp;&amp;nbsp;Interactive" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="40" width="800" height="50" as="geometry" />
+          <mxGeometry x="230" y="40" width="990" height="50" as="geometry" />
         </mxCell>
         <mxCell id="697" value="" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;" parent="1" vertex="1">
           <mxGeometry x="462" y="160" width="150" height="60" as="geometry" />
@@ -250,6 +250,12 @@
             <mxPoint x="880" y="260" as="sourcePoint" />
             <mxPoint x="920" y="320" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CRXLnULaYuxXShmCxGCk-723" value="加载 5分钟之内的任务" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="390" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CRXLnULaYuxXShmCxGCk-724" value="延迟消息" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="493" y="440" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
