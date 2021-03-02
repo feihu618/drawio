@@ -1,4 +1,4 @@
-<mxfile modified="2021-03-02T08:54:46.235Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="TpLA5659mAW5nJb4AvAy" version="14.4.3" type="github">
+<mxfile modified="2021-03-02T09:04:07.020Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="0W7I83lS7ORlatsQwc-F" version="14.4.3" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -284,6 +284,24 @@
         </mxCell>
         <mxCell id="C7aOnW5sI2uFMTDWrQc7-726" value="点赞结果上报" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="555" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C7aOnW5sI2uFMTDWrQc7-728" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.json_2;gradientColor=#DFDEDE" vertex="1" parent="1">
+          <mxGeometry x="930" y="640" width="310" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="C7aOnW5sI2uFMTDWrQc7-735" value="执行任务id" style="fontStyle=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="640" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C7aOnW5sI2uFMTDWrQc7-736" value="执行号" style="fontStyle=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="670" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C7aOnW5sI2uFMTDWrQc7-737" value="视频号列表" style="fontStyle=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="700" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C7aOnW5sI2uFMTDWrQc7-738" value="执行动作：关注、点赞" style="fontStyle=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="860" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C7aOnW5sI2uFMTDWrQc7-739" value="执行方式：搜索点赞、关注点赞" style="fontStyle=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="890" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
