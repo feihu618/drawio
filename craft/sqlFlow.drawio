@@ -1,4 +1,4 @@
-<mxfile modified="2021-07-06T08:25:55.458Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="G2Qx1p_d2WOgwj5PqcdO" version="14.8.4" type="github">
+<mxfile modified="2021-07-06T08:28:46.096Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="DaTURla5sbXr-wbl_d7C" version="14.8.4" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="782" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -89,9 +89,6 @@
             <mxPoint x="579" y="480" as="sourcePoint" />
             <mxPoint x="650" y="450" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="G245-s3OqqWEg4Bqu4Ok-719" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="786.25" y="820" width="35" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PuhiZ39EmkUhV1063GtV-720" value="数据层" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E0F2F1;" parent="1" vertex="1">
           <mxGeometry x="450" y="630" width="420" height="150" as="geometry" />
@@ -293,6 +290,21 @@
             <mxPoint x="750" y="379" as="sourcePoint" />
             <mxPoint x="750" y="520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="l1sQlq1KdcyGu-_ffM4d-759" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6666;strokeWidth=2;" edge="1" parent="1" source="l1sQlq1KdcyGu-_ffM4d-758" target="PuhiZ39EmkUhV1063GtV-721">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l1sQlq1KdcyGu-_ffM4d-758" value="官方SDK" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=placeholder" vertex="1" parent="1">
+          <mxGeometry x="722" y="820" width="66" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l1sQlq1KdcyGu-_ffM4d-760" value="数据拉取" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="693.75" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l1sQlq1KdcyGu-_ffM4d-761" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF6666;strokeWidth=2;" edge="1" parent="1" source="G245-s3OqqWEg4Bqu4Ok-720" target="PuhiZ39EmkUhV1063GtV-721">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l1sQlq1KdcyGu-_ffM4d-762" value="数据上报" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="591" y="750" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
