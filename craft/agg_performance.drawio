@@ -1,4 +1,4 @@
-<mxfile modified="2021-07-07T09:37:45.535Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="Lh9cZkIiEErojzj5vO11" version="14.8.4" type="github">
+<mxfile modified="2021-07-07T11:10:34.606Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="JGW1bK3kJYy-wlKAP_qp" version="14.8.4" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1234" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -12,6 +12,9 @@
         </mxCell>
         <mxCell id="UWR0pycIvVSBBpHGYiqC-713" value="Chrome浏览器" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#6c8ebf;shadow=0;dashed=0;strokeColor=none;fontSize=12;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="766.5" y="740" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-778" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF6666;strokeWidth=2;" edge="1" parent="1" source="UWR0pycIvVSBBpHGYiqC-714" target="kEi-bIiEb2NqiL_R74SX-752">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UWR0pycIvVSBBpHGYiqC-714" value="存储可选方式1" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#6c8ebf;shadow=0;dashed=0;strokeColor=none;fontSize=12;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="1140" y="850" width="250" height="130" as="geometry" />
@@ -34,6 +37,12 @@
         <mxCell id="kEi-bIiEb2NqiL_R74SX-717" value="MySQL" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1240" y="860" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-803" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF6666;strokeWidth=2;" edge="1" parent="1" source="kEi-bIiEb2NqiL_R74SX-718" target="kEi-bIiEb2NqiL_R74SX-780">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-804" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6666;strokeWidth=2;" edge="1" parent="1" source="kEi-bIiEb2NqiL_R74SX-718" target="kEi-bIiEb2NqiL_R74SX-792">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kEi-bIiEb2NqiL_R74SX-718" value="存储可选方式2" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#6c8ebf;shadow=0;dashed=0;strokeColor=none;fontSize=12;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="1140" y="1005" width="250" height="130" as="geometry" />
         </mxCell>
@@ -41,7 +50,7 @@
           <mxGeometry x="1245" y="1012" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kEi-bIiEb2NqiL_R74SX-758" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1450" y="850" width="220" height="340" as="geometry" />
+          <mxGeometry x="1430" y="670" width="220" height="340" as="geometry" />
         </mxCell>
         <mxCell id="UWR0pycIvVSBBpHGYiqC-736" value="重要数据字段" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" parent="kEi-bIiEb2NqiL_R74SX-758" vertex="1">
           <mxGeometry width="220" height="340" as="geometry" />
@@ -116,6 +125,60 @@
         </mxCell>
         <mxCell id="kEi-bIiEb2NqiL_R74SX-777" value="数据分片" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1240" y="1055" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-779" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1169" y="1200" width="221" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-780" value="重要数据字段" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-779">
+          <mxGeometry width="221.00000000000003" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-781" value="按天统计表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-779">
+          <mxGeometry x="10.05" y="27.18" width="199.95" height="149.99764705882356" as="geometry" />
+        </mxCell>
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-782" value="rowKey: 日期-sendId-revId" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-781">
+          <mxGeometry y="26" width="199.95" height="16.823529411764707" as="geometry" />
+        </mxCell>
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-786" value="count0 //聊天总数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-781">
+          <mxGeometry y="42.82352941176471" width="199.95" height="16.823529411764707" as="geometry" />
+        </mxCell>
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-787" value="count1 //文字聊天数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-781">
+          <mxGeometry y="59.64705882352942" width="199.95" height="16.823529411764707" as="geometry" />
+        </mxCell>
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-788" value="count2 //图片聊天数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-781">
+          <mxGeometry y="76.47058823529413" width="199.95" height="16.823529411764707" as="geometry" />
+        </mxCell>
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-789" value="count3 //图片聊天数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-781">
+          <mxGeometry y="93.29411764705884" width="199.95" height="16.823529411764707" as="geometry" />
+        </mxCell>
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-790" value="count3 //图片聊天数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-781">
+          <mxGeometry y="110.11764705882355" width="199.95" height="39.88" as="geometry" />
+        </mxCell>
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-791" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1420" y="1200" width="210" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-792" value="重要数据字段" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-791">
+          <mxGeometry width="210" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-793" value="按天统计表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-791">
+          <mxGeometry x="9.55" y="28.41" width="190.91" height="131.5294117647059" as="geometry" />
+        </mxCell>
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-794" value="rowKey: 日期-revId-sendId" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-793">
+          <mxGeometry y="26" width="190.91" height="17.58823529411765" as="geometry" />
+        </mxCell>
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-798" value="count0 //聊天总数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-793">
+          <mxGeometry y="43.58823529411765" width="190.91" height="17.58823529411765" as="geometry" />
+        </mxCell>
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-799" value="count1 //文字聊天数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-793">
+          <mxGeometry y="61.176470588235304" width="190.91" height="17.58823529411765" as="geometry" />
+        </mxCell>
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-800" value="count2 //图片聊天数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-793">
+          <mxGeometry y="78.76470588235296" width="190.91" height="17.58823529411765" as="geometry" />
+        </mxCell>
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-801" value="count3 //图片聊天数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-793">
+          <mxGeometry y="96.35294117647061" width="190.91" height="17.58823529411765" as="geometry" />
+        </mxCell>
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-802" value="count3 //图片聊天数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-793">
+          <mxGeometry y="113.94117647058826" width="190.91" height="17.58823529411765" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
