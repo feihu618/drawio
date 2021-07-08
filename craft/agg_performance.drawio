@@ -1,4 +1,4 @@
-<mxfile modified="2021-07-08T01:55:12.903Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="XHE9Sgkno3oCTDYiWQla" version="14.8.4" type="github">
+<mxfile modified="2021-07-08T02:16:08.763Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="Yg2g-P6V7ld0W_84EAPZ" version="14.8.4" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1234" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
         <mxCell id="kEi-bIiEb2NqiL_R74SX-781" value="按天统计发送表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-779">
           <mxGeometry x="10.05" y="27.18" width="199.95" height="166.82117647058826" as="geometry" />
         </mxCell>
-        <mxCell id="kEi-bIiEb2NqiL_R74SX-782" value="rowKey: 日期-sendId-revId" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-781">
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-782" value="rowKey: sn-日期-sendId-revId" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-781">
           <mxGeometry y="26" width="199.95" height="16.823529411764707" as="geometry" />
         </mxCell>
         <mxCell id="kEi-bIiEb2NqiL_R74SX-786" value="keywords//聊天出现的关键词" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-781">
@@ -165,7 +165,7 @@
         <mxCell id="kEi-bIiEb2NqiL_R74SX-793" value="按天统计接收表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-791">
           <mxGeometry x="9.55" y="28.41" width="190.91" height="149.11764705882356" as="geometry" />
         </mxCell>
-        <mxCell id="kEi-bIiEb2NqiL_R74SX-794" value="rowKey: 日期-revId-sendId" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-793">
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-794" value="rowKey: sn-日期-revId-sendId" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-793">
           <mxGeometry y="26" width="190.91" height="17.58823529411765" as="geometry" />
         </mxCell>
         <mxCell id="kEi-bIiEb2NqiL_R74SX-798" value="keywords //聊天出现的关键词" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kEi-bIiEb2NqiL_R74SX-793">
