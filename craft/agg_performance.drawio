@@ -1,4 +1,4 @@
-<mxfile modified="2021-07-08T01:23:57.133Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="aEuvhSdqtxDSCHSS3GdT" version="14.8.4" type="github">
+<mxfile modified="2021-07-08T01:24:52.894Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="DHp_KInToY7nmeUduex-" version="14.8.4" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1234" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -191,6 +191,9 @@
         </mxCell>
         <mxCell id="kEi-bIiEb2NqiL_R74SX-813" value="两缺点" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="625" y="1030" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-814" value="环境不统一" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="1050" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
