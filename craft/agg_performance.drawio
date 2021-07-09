@@ -1,4 +1,4 @@
-<mxfile modified="2021-07-09T02:47:50.441Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="YU0Vc9XmRM5BaMcScjp2" version="14.8.5" type="github">
+<mxfile modified="2021-07-09T02:57:47.540Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="Vggj1GR5GYBF-mdY3xVA" version="14.8.5" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1234" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
           <mxGeometry width="220" height="340" as="geometry" />
         </mxCell>
         <mxCell id="kEi-bIiEb2NqiL_R74SX-748" value="按天统计表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="kEi-bIiEb2NqiL_R74SX-758" vertex="1">
-          <mxGeometry x="10" y="42" width="200" height="260" as="geometry" />
+          <mxGeometry x="10" y="42" width="200" height="234" as="geometry" />
         </mxCell>
         <mxCell id="kEi-bIiEb2NqiL_R74SX-749" value="日期  //yyyy-mm-dd" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kEi-bIiEb2NqiL_R74SX-748" vertex="1">
           <mxGeometry y="26" width="200" height="26" as="geometry" />
@@ -61,26 +61,23 @@
         <mxCell id="kEi-bIiEb2NqiL_R74SX-750" value="senderId //发送者" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kEi-bIiEb2NqiL_R74SX-748" vertex="1">
           <mxGeometry y="52" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="kEi-bIiEb2NqiL_R74SX-751" value="revId      //接收者" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kEi-bIiEb2NqiL_R74SX-748" vertex="1">
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-751" value="revId/roomId    //接收者或群Id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kEi-bIiEb2NqiL_R74SX-748" vertex="1">
           <mxGeometry y="78" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="kEi-bIiEb2NqiL_R74SX-752" value="roomId  //群Id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kEi-bIiEb2NqiL_R74SX-748" vertex="1">
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-753" value="count0 //聊天总数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kEi-bIiEb2NqiL_R74SX-748" vertex="1">
           <mxGeometry y="104" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="kEi-bIiEb2NqiL_R74SX-753" value="count0 //聊天总数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kEi-bIiEb2NqiL_R74SX-748" vertex="1">
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-754" value="count1 //文字聊天数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kEi-bIiEb2NqiL_R74SX-748" vertex="1">
           <mxGeometry y="130" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="kEi-bIiEb2NqiL_R74SX-754" value="count1 //文字聊天数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kEi-bIiEb2NqiL_R74SX-748" vertex="1">
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-755" value="count2 //图片聊天数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kEi-bIiEb2NqiL_R74SX-748" vertex="1">
           <mxGeometry y="156" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="kEi-bIiEb2NqiL_R74SX-755" value="count2 //图片聊天数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kEi-bIiEb2NqiL_R74SX-748" vertex="1">
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-756" value="count3 //语音聊天数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kEi-bIiEb2NqiL_R74SX-748" vertex="1">
           <mxGeometry y="182" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="kEi-bIiEb2NqiL_R74SX-756" value="count3 //语音聊天数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kEi-bIiEb2NqiL_R74SX-748" vertex="1">
-          <mxGeometry y="208" width="200" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="kEi-bIiEb2NqiL_R74SX-757" value="count3 //图片聊天数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kEi-bIiEb2NqiL_R74SX-748" vertex="1">
-          <mxGeometry y="234" width="200" height="26" as="geometry" />
+          <mxGeometry y="208" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="kEi-bIiEb2NqiL_R74SX-759" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#6666FF;strokeColor=#000000;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -223,8 +220,14 @@
         <mxCell id="CulKxSjoy0lhi4-_CY4D-5" value="触发" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="1140" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kEi-bIiEb2NqiL_R74SX-778" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF6666;strokeWidth=2;" parent="1" source="UWR0pycIvVSBBpHGYiqC-714" target="kEi-bIiEb2NqiL_R74SX-752" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="kEi-bIiEb2NqiL_R74SX-778" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF6666;strokeWidth=2;" parent="1" source="UWR0pycIvVSBBpHGYiqC-714" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1440" y="829" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1420" y="915" />
+              <mxPoint x="1420" y="829" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
