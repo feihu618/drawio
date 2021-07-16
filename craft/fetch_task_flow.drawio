@@ -1,6 +1,6 @@
-<mxfile modified="2021-07-16T07:36:08.967Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="oejPp9v0MbWnm3UxCYIx" version="14.8.5" type="github">
+<mxfile modified="2021-07-16T07:38:25.336Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="BcZZ6CRhqmDOCny1ugmV" version="14.8.5" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="782" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1234" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,7 +132,7 @@
         <mxCell id="3AVTxECIZ5KOKoRKUXRH-743" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="3AVTxECIZ5KOKoRKUXRH-742" target="nr5fOKlL_KogjnnYkvEE-771">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3AVTxECIZ5KOKoRKUXRH-742" value="某个corpId下，一直持续拉取，超过了某个频度，就会触发新的任务：10万+seq, cropId, 10万条" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+        <mxCell id="3AVTxECIZ5KOKoRKUXRH-742" value="任务切分，切分两个维度&lt;br&gt;第一层是公司维度&lt;br&gt;第二层是公司消息太多" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
           <mxGeometry x="380" y="260" width="210" height="70" as="geometry" />
         </mxCell>
       </root>
