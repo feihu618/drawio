@@ -1,4 +1,4 @@
-<mxfile modified="2021-07-16T07:22:26.169Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="XW3N9IXrIAsInV3zD2dA" version="14.8.5" type="github">
+<mxfile modified="2021-07-16T07:23:30.848Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="YMQT1IKYLEv0FdjoKxN2" version="14.8.5" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1234" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3AVTxECIZ5KOKoRKUXRH-737" value="某个corpId下，一直持续拉取，超过了某个频度，就会触发新的任务：10万+seq, cropId, 10万条" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
-          <mxGeometry x="950" y="130" width="200" height="70" as="geometry" />
+          <mxGeometry x="950" y="130" width="210" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
