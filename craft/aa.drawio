@@ -1,6 +1,6 @@
-<mxfile modified="2021-10-27T14:46:23.746Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="q_DvLE4sRZFIv_RFOzfY" version="15.0.4" type="github">
+<mxfile modified="2021-10-27T23:53:17.516Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="vtmkPLpTR7t8Q5_C0LA1" version="15.0.4" type="github">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
-    <mxGraphModel dx="1422" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,6 +204,20 @@
         <mxCell id="U1Ay35E1g781lk5RPqSk-76" value="登录/注册" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U1Ay35E1g781lk5RPqSk-75">
           <mxGeometry x="0.24" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U1Ay35E1g781lk5RPqSk-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startFill=1;startSize=4;endArrow=blockThin;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#4284F3;strokeWidth=2;fontSize=12;fontColor=#000000;align=left;dashed=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="20" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="423" y="444" />
+            </Array>
+            <mxPoint x="550" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="444" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U1Ay35E1g781lk5RPqSk-79" value="i注册成功后，添加特定组" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U1Ay35E1g781lk5RPqSk-78">
+          <mxGeometry x="-0.1348" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
