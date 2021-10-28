@@ -1,6 +1,6 @@
-<mxfile modified="2021-10-28T02:58:04.262Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="7JpE-CW-bVrVO13oeml2" version="15.6.1" type="github">
+<mxfile modified="2021-10-28T03:01:31.695Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="hULUaxw4GAuauFDpn_sw" version="15.6.1" type="github">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
-    <mxGraphModel dx="1234" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,11 +44,9 @@
         <mxCell id="356" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fatcow/32/application_form_edit.png;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#9E9E9E;align=left;fillColor=#EFEBE9;" parent="1" vertex="1">
           <mxGeometry x="110.5" y="415" width="110" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="398" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=0;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=4;endArrow=blockThin;endFill=1;endSize=4;strokeColor=#4284F3;strokeWidth=2;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="gkzEU2F8MHpK_U1UK7pQ-420" edge="1">
+        <mxCell id="398" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=0;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=4;endArrow=blockThin;endFill=1;endSize=4;strokeColor=#4284F3;strokeWidth=2;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.289;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="gkzEU2F8MHpK_U1UK7pQ-420" target="gkzEU2F8MHpK_U1UK7pQ-425" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="510" y="533" />
-            </Array>
+            <Array as="points" />
             <mxPoint x="328.5" y="189" as="sourcePoint" />
             <mxPoint x="510" y="701" as="targetPoint" />
           </mxGeometry>
@@ -182,7 +180,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gkzEU2F8MHpK_U1UK7pQ-422" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;" parent="1" vertex="1">
-          <mxGeometry x="320" y="700" width="498" height="30" as="geometry" />
+          <mxGeometry x="320" y="630" width="498" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gkzEU2F8MHpK_U1UK7pQ-423" value="用户id" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;" parent="gkzEU2F8MHpK_U1UK7pQ-422" vertex="1">
           <mxGeometry width="83" height="30" as="geometry" />
@@ -307,6 +305,9 @@
         </mxCell>
         <mxCell id="OkfPjaItKJtlT03lLJa_-444" value="添加用户组" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="510" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OkfPjaItKJtlT03lLJa_-446" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(245 , 245 , 245)&quot;&gt;新加表：user_ids&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="635" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
