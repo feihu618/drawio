@@ -1,4 +1,4 @@
-<mxfile modified="2021-11-06T05:35:36.141Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="to25nePUloL3MJLzfNFL" version="15.6.8" type="github">
+<mxfile modified="2021-11-06T05:36:47.770Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="-XbQJLYXf8AsipHKtVei" version="15.6.8" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="782" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -146,6 +146,15 @@
         </mxCell>
         <mxCell id="_6TvkefpL0pkdzzRzgBX-739" value="打包服务" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="1030" y="210" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_6TvkefpL0pkdzzRzgBX-763" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="_6TvkefpL0pkdzzRzgBX-716" target="_6TvkefpL0pkdzzRzgBX-759">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_6TvkefpL0pkdzzRzgBX-764" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="_6TvkefpL0pkdzzRzgBX-716" target="_6TvkefpL0pkdzzRzgBX-761">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_6TvkefpL0pkdzzRzgBX-765" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="_6TvkefpL0pkdzzRzgBX-716" target="_6TvkefpL0pkdzzRzgBX-739">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
