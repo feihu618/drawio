@@ -1,4 +1,4 @@
-<mxfile modified="2021-11-06T05:36:47.770Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="-XbQJLYXf8AsipHKtVei" version="15.6.8" type="github">
+<mxfile modified="2021-11-06T05:37:34.960Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="t268jFuyLOOpnbIGWwN0" version="15.6.8" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="782" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
         <mxCell id="_6TvkefpL0pkdzzRzgBX-708" value="外部服务" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" vertex="1" parent="1">
           <mxGeometry x="930" y="460" width="160" height="151" as="geometry" />
         </mxCell>
-        <mxCell id="_6TvkefpL0pkdzzRzgBX-707" value="黑名单" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=18;align=center;" vertex="1" parent="1">
+        <mxCell id="_6TvkefpL0pkdzzRzgBX-707" value="敏感词名单" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="950" y="530" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_6TvkefpL0pkdzzRzgBX-710" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startFill=1;startSize=4;endArrow=blockThin;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#4284F3;strokeWidth=2;fontSize=12;fontColor=#000000;align=center;dashed=0;startArrow=blockThin;" edge="1" parent="1" source="_6TvkefpL0pkdzzRzgBX-715" target="_6TvkefpL0pkdzzRzgBX-707">
@@ -56,7 +56,7 @@
         <mxCell id="_6TvkefpL0pkdzzRzgBX-713" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="410" y="350" width="340" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="_6TvkefpL0pkdzzRzgBX-715" value="&lt;span style=&quot;font-size: 18px&quot;&gt;黑名单过滤&lt;/span&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=center;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F3E5F5;" vertex="1" parent="_6TvkefpL0pkdzzRzgBX-713">
+        <mxCell id="_6TvkefpL0pkdzzRzgBX-715" value="&lt;span style=&quot;font-size: 18px&quot;&gt;敏感词过滤&lt;/span&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=center;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F3E5F5;" vertex="1" parent="_6TvkefpL0pkdzzRzgBX-713">
           <mxGeometry y="5.729166666666666" width="340" height="40.104166666666664" as="geometry" />
         </mxCell>
         <mxCell id="_6TvkefpL0pkdzzRzgBX-714" value="&lt;br&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 命名空间&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_endpoints;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="_6TvkefpL0pkdzzRzgBX-713">
