@@ -1,4 +1,4 @@
-<mxfile modified="2021-11-06T05:26:28.616Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="p5tgMEjjFv0H-4ayE2LA" version="15.6.8" type="github">
+<mxfile modified="2021-11-06T05:35:36.141Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="to25nePUloL3MJLzfNFL" version="15.6.8" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="782" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -112,10 +112,10 @@
           <mxGeometry width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_6TvkefpL0pkdzzRzgBX-716" value="项目管理" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=12;align=center;" vertex="1" parent="_6TvkefpL0pkdzzRzgBX-744">
-          <mxGeometry x="120" y="4" width="110" height="24" as="geometry" />
+          <mxGeometry x="140" y="36" width="110" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="_6TvkefpL0pkdzzRzgBX-739" value="打包服务" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=12;align=center;" vertex="1" parent="_6TvkefpL0pkdzzRzgBX-744">
-          <mxGeometry x="120" y="36" width="110" height="24" as="geometry" />
+        <mxCell id="_6TvkefpL0pkdzzRzgBX-762" value="译员工作平台" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=12;align=center;" vertex="1" parent="_6TvkefpL0pkdzzRzgBX-744">
+          <mxGeometry x="10" y="36" width="110" height="24" as="geometry" />
         </mxCell>
         <mxCell id="_6TvkefpL0pkdzzRzgBX-725" value="项目类型" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F6F6F6;" vertex="1" parent="_6TvkefpL0pkdzzRzgBX-746">
           <mxGeometry x="30" y="120" width="260" height="56" as="geometry" />
@@ -137,6 +137,15 @@
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_6TvkefpL0pkdzzRzgBX-759" value="项目配置" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="110" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_6TvkefpL0pkdzzRzgBX-761" value="项目key管理" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_6TvkefpL0pkdzzRzgBX-739" value="打包服务" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="210" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
