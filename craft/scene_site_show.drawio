@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T05:13:34.185Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="00xKQUyH87SpVbTadhEU" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T06:03:42.583Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="sFCJEPTH9l-9nr82Wv1_" version="17.0.0" type="github">
   <diagram name="Page-1" id="bfe91b75-5d2c-26a0-9c1d-138518896778">
-    <mxGraphModel dx="4327" dy="2520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3709" dy="3010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oj0V7E_Q8fi1NZaQkgy_-39" value="colo / dc /&#xa;on-premises" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#EFEBE9;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1170" width="850" height="440" as="geometry" />
+        </mxCell>
         <mxCell id="7c3789c024ecab99-81" value="站点云端层" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#036897;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;align=center;arcSize=11;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="2250" width="1170" height="1500" as="geometry" />
         </mxCell>
@@ -216,6 +219,12 @@
             <mxPoint x="1270" y="1080" as="sourcePoint" />
             <mxPoint x="2190" y="1080" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oj0V7E_Q8fi1NZaQkgy_-36" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/interface.svg;fontSize=36;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1618.2" y="1201.8" width="170" height="79.9" as="geometry" />
+        </mxCell>
+        <mxCell id="oj0V7E_Q8fi1NZaQkgy_-38" value="Text" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=36;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="1175" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
