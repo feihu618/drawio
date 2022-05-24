@@ -1,4 +1,4 @@
-<mxfile modified="2022-05-24T07:59:38.718Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="oBWwkuF2UCuyT8j5emq9" version="17.4.6" type="github">
+<mxfile modified="2022-05-24T08:10:40.326Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="FsvDNNFPg9F43Nh1O_zQ" version="17.4.6" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="3229" dy="1194" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -251,7 +251,7 @@
           <mxGeometry x="630.393996247655" y="590" width="112.57035647279551" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MLptsEWVuVLRwVdw8l3M-666" value="模型对比" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F6F6F6;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="100" width="570" height="700" as="geometry" />
+          <mxGeometry x="1060" y="96" width="570" height="700" as="geometry" />
         </mxCell>
         <mxCell id="MLptsEWVuVLRwVdw8l3M-667" value="Site" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E3F2FD;" vertex="1" parent="MLptsEWVuVLRwVdw8l3M-666">
           <mxGeometry width="250" height="360" relative="1" as="geometry">
@@ -325,25 +325,63 @@
             <mxPoint x="270" y="50" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MLptsEWVuVLRwVdw8l3M-674" value="root: DArea" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#FFF3E0;" vertex="1" parent="MLptsEWVuVLRwVdw8l3M-673">
-          <mxGeometry width="230" height="312" relative="1" as="geometry">
-            <mxPoint x="10" y="50" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MLptsEWVuVLRwVdw8l3M-676" value="areaList" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F9FBE7;" vertex="1" parent="MLptsEWVuVLRwVdw8l3M-674">
-          <mxGeometry width="190" height="60" relative="1" as="geometry">
-            <mxPoint x="16" y="68" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MLptsEWVuVLRwVdw8l3M-700" value="passageList" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E0F7FA;" vertex="1" parent="MLptsEWVuVLRwVdw8l3M-674">
-          <mxGeometry x="16" y="156" width="190" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="MLptsEWVuVLRwVdw8l3M-679" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;AbstractSceneFactory&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ decompose&lt;br&gt;+ compose&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;fontSize=46;fontColor=#7F00FF;" vertex="1" parent="MLptsEWVuVLRwVdw8l3M-666">
-          <mxGeometry y="460" width="570" height="240" as="geometry" />
+          <mxGeometry y="420" width="570" height="240" as="geometry" />
         </mxCell>
         <mxCell id="MLptsEWVuVLRwVdw8l3M-680" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fontSize=46;fontColor=#7F00FF;" vertex="1" parent="MLptsEWVuVLRwVdw8l3M-679">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MLptsEWVuVLRwVdw8l3M-705" value="" style="group" vertex="1" connectable="0" parent="MLptsEWVuVLRwVdw8l3M-666">
+          <mxGeometry x="348" y="104" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MLptsEWVuVLRwVdw8l3M-706" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=46;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="MLptsEWVuVLRwVdw8l3M-705">
+          <mxGeometry width="74.60207612456746" height="74.60207612456746" as="geometry" />
+        </mxCell>
+        <mxCell id="MLptsEWVuVLRwVdw8l3M-707" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/travello-basic-ui-1/64/tag-128.png;fontSize=46;fontColor=#7F00FF;" vertex="1" parent="MLptsEWVuVLRwVdw8l3M-705">
+          <mxGeometry x="71.7391304347826" y="63.68421052631578" width="34.10380622837369" height="34.10380622837369" as="geometry" />
+        </mxCell>
+        <mxCell id="MLptsEWVuVLRwVdw8l3M-708" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.map;fontSize=46;fontColor=#7F00FF;" vertex="1" parent="MLptsEWVuVLRwVdw8l3M-705">
+          <mxGeometry x="11.956521739130434" y="31.11842105263158" width="53.804347826086946" height="53.914473684210535" as="geometry" />
+        </mxCell>
+        <mxCell id="MLptsEWVuVLRwVdw8l3M-709" value="" style="group" vertex="1" connectable="0" parent="MLptsEWVuVLRwVdw8l3M-666">
+          <mxGeometry x="280" y="212" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MLptsEWVuVLRwVdw8l3M-710" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=46;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="MLptsEWVuVLRwVdw8l3M-709">
+          <mxGeometry width="74.60207612456746" height="74.60207612456746" as="geometry" />
+        </mxCell>
+        <mxCell id="MLptsEWVuVLRwVdw8l3M-711" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/travello-basic-ui-1/64/tag-128.png;fontSize=46;fontColor=#7F00FF;" vertex="1" parent="MLptsEWVuVLRwVdw8l3M-709">
+          <mxGeometry x="71.7391304347826" y="63.68421052631578" width="34.10380622837369" height="34.10380622837369" as="geometry" />
+        </mxCell>
+        <mxCell id="MLptsEWVuVLRwVdw8l3M-712" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.map;fontSize=46;fontColor=#7F00FF;" vertex="1" parent="MLptsEWVuVLRwVdw8l3M-709">
+          <mxGeometry x="11.956521739130434" y="31.11842105263158" width="53.804347826086946" height="53.914473684210535" as="geometry" />
+        </mxCell>
+        <mxCell id="MLptsEWVuVLRwVdw8l3M-721" style="edgeStyle=none;html=1;labelBackgroundColor=none;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=15;fontColor=#036897;exitX=0.057;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="MLptsEWVuVLRwVdw8l3M-666" source="MLptsEWVuVLRwVdw8l3M-708">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="353.38192004239954" y="160.00088311350532" as="sourcePoint" />
+            <mxPoint x="328" y="216" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MLptsEWVuVLRwVdw8l3M-723" value="&lt;font color=&quot;#000000&quot;&gt;DArea&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;fontColor=#00FF00;" vertex="1" parent="MLptsEWVuVLRwVdw8l3M-666">
+          <mxGeometry x="348" y="74" width="72" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="MLptsEWVuVLRwVdw8l3M-713" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1468" y="308" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MLptsEWVuVLRwVdw8l3M-714" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=46;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="MLptsEWVuVLRwVdw8l3M-713">
+          <mxGeometry width="74.60207612456746" height="74.60207612456746" as="geometry" />
+        </mxCell>
+        <mxCell id="MLptsEWVuVLRwVdw8l3M-715" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/travello-basic-ui-1/64/tag-128.png;fontSize=46;fontColor=#7F00FF;" vertex="1" parent="MLptsEWVuVLRwVdw8l3M-713">
+          <mxGeometry x="71.7391304347826" y="63.68421052631578" width="34.10380622837369" height="34.10380622837369" as="geometry" />
+        </mxCell>
+        <mxCell id="MLptsEWVuVLRwVdw8l3M-716" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.map;fontSize=46;fontColor=#7F00FF;" vertex="1" parent="MLptsEWVuVLRwVdw8l3M-713">
+          <mxGeometry x="11.956521739130434" y="31.11842105263158" width="53.804347826086946" height="53.914473684210535" as="geometry" />
+        </mxCell>
+        <mxCell id="MLptsEWVuVLRwVdw8l3M-722" style="edgeStyle=none;html=1;labelBackgroundColor=none;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=15;fontColor=#036897;entryX=0.375;entryY=0.107;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MLptsEWVuVLRwVdw8l3M-708" target="MLptsEWVuVLRwVdw8l3M-714">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1417.3819200423995" y="260.0008831135053" as="sourcePoint" />
+            <mxPoint x="1392" y="316" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
