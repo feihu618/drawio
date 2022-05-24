@@ -1,6 +1,6 @@
-<mxfile modified="2022-05-24T08:10:40.326Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="FsvDNNFPg9F43Nh1O_zQ" version="17.4.6" type="github">
+<mxfile modified="2022-05-24T08:11:11.237Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="tz4jSF0TcHDfHS0XmOLR" version="17.4.6" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="3229" dy="1194" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2060" dy="1194" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,15 +123,6 @@
         </mxCell>
         <mxCell id="2" value="Architecture" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="40" width="1500" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="MLptsEWVuVLRwVdw8l3M-588" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-36-128.png" vertex="1" parent="1">
-          <mxGeometry x="10" y="140" width="89" height="89" as="geometry" />
-        </mxCell>
-        <mxCell id="MLptsEWVuVLRwVdw8l3M-592" value="" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#82b366;shadow=0;dashed=0;strokeColor=none;fontSize=12;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="364" width="200" height="126" as="geometry" />
-        </mxCell>
-        <mxCell id="MLptsEWVuVLRwVdw8l3M-618" value="AbstractSceneFactory" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="410" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLptsEWVuVLRwVdw8l3M-627" value="" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="100" width="900" height="700" as="geometry" />
