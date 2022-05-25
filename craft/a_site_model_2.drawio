@@ -1,4 +1,4 @@
-<mxfile modified="2022-05-25T06:48:55.081Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="6EUz07yNZk92e2W61gxK" version="17.4.6" type="github">
+<mxfile modified="2022-05-25T06:50:02.885Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="POKYQc8vYpfZTAMX9s-X" version="17.4.6" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="2060" dy="1194" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="tvqW-mT6Z6pj6yy6xD2d-581" value="能够表示场景中任意资源" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E0F2F1;" vertex="1" parent="14">
           <mxGeometry x="25.4154609929078" y="17.820172009382333" width="534.4143262411349" height="201.113369820172" as="geometry" />
         </mxCell>
-        <mxCell id="tvqW-mT6Z6pj6yy6xD2d-582" value="Site" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=32;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="14">
+        <mxCell id="tvqW-mT6Z6pj6yy6xD2d-582" value="Scene" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=32;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="14">
           <mxGeometry x="177.2008510638298" y="1074.3017982799063" width="257.60283687943263" height="198.56763096168885" as="geometry" />
         </mxCell>
         <mxCell id="tvqW-mT6Z6pj6yy6xD2d-583" value="+站点名称&#xa;+UUID&#xa;+root_area_id" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=32;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="tvqW-mT6Z6pj6yy6xD2d-582">
@@ -46,13 +46,13 @@
         <mxCell id="tvqW-mT6Z6pj6yy6xD2d-584" value="Area" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=32;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="14">
           <mxGeometry x="64" y="1275.9985599999998" width="179.41" height="299.79077333333333" as="geometry" />
         </mxCell>
-        <mxCell id="tvqW-mT6Z6pj6yy6xD2d-585" value="+id&#xa;+site_id&#xa;+parent_id&#xa;+kind&#xa;+UUID&#xa;+map_id&#xa;+tags" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=32;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="tvqW-mT6Z6pj6yy6xD2d-584">
+        <mxCell id="tvqW-mT6Z6pj6yy6xD2d-585" value="+id&#xa;+scene_id&#xa;+parent_id&#xa;+kind&#xa;+UUID&#xa;+map_id&#xa;+tags" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=32;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="tvqW-mT6Z6pj6yy6xD2d-584">
           <mxGeometry y="30" width="179.41" height="269.79077333333333" as="geometry" />
         </mxCell>
         <mxCell id="tvqW-mT6Z6pj6yy6xD2d-587" value="Tag" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=32;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="14">
           <mxGeometry x="304" y="1331.86" width="244" height="260.14" as="geometry" />
         </mxCell>
-        <mxCell id="tvqW-mT6Z6pj6yy6xD2d-588" value="+id&#xa;+site_id&#xa;+host_id&#xa;+namespace&#xa;+key&#xa;+value&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=32;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="tvqW-mT6Z6pj6yy6xD2d-587">
+        <mxCell id="tvqW-mT6Z6pj6yy6xD2d-588" value="+id&#xa;+scene_id&#xa;+host_id&#xa;+namespace&#xa;+key&#xa;+value&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=32;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="tvqW-mT6Z6pj6yy6xD2d-587">
           <mxGeometry y="30" width="244" height="230.14" as="geometry" />
         </mxCell>
         <mxCell id="tvqW-mT6Z6pj6yy6xD2d-586" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#7F00FF;endArrow=diamond;endFill=1;strokeColor=#6666FF;strokeWidth=2;exitX=-0.025;exitY=0.121;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="14" source="tvqW-mT6Z6pj6yy6xD2d-588" target="tvqW-mT6Z6pj6yy6xD2d-585">
