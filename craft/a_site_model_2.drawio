@@ -1,4 +1,4 @@
-<mxfile modified="2022-05-25T07:32:25.814Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="oL4pmcyDaB6RFfHY7d6S" version="17.4.6" type="github">
+<mxfile modified="2022-05-25T07:41:29.072Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="r7Ly3fwDk_ezw9Uv5q70" version="17.4.6" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="2060" dy="1194" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -134,6 +134,9 @@
         </mxCell>
         <mxCell id="tvqW-mT6Z6pj6yy6xD2d-617" value="表达任意资源" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="14">
           <mxGeometry x="35.5" y="120" width="124" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="tvqW-mT6Z6pj6yy6xD2d-644" value="表达能力" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="14">
+          <mxGeometry x="176" y="28" width="88" height="28" as="geometry" />
         </mxCell>
         <mxCell id="2" value="Architecture：extensibility" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
           <mxGeometry x="448" y="40" width="1376" height="52" as="geometry" />
