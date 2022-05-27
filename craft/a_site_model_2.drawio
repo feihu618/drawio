@@ -1,4 +1,4 @@
-<mxfile modified="2022-05-27T05:42:54.766Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="OfFGDNsxOAy3itRuW1dZ" version="17.4.6" type="github">
+<mxfile modified="2022-05-27T05:48:19.288Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="1WTV44lfx8t7TF7W6eNH" version="17.4.6" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="3229" dy="1194" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -157,19 +157,19 @@
         <mxCell id="MLptsEWVuVLRwVdw8l3M-607" value="&lt;span style=&quot;font-size: 22px&quot;&gt;SiteService&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="14" vertex="1">
           <mxGeometry x="44.05804702761925" y="188.423412765811" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tvqW-mT6Z6pj6yy6xD2d-582" value="Scene" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=32;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="14">
+        <mxCell id="tvqW-mT6Z6pj6yy6xD2d-582" value="scene" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=32;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="14">
           <mxGeometry x="188.0008510638298" y="781.2123509991062" width="257.60283687943263" height="179.00481626270525" as="geometry" />
         </mxCell>
         <mxCell id="tvqW-mT6Z6pj6yy6xD2d-583" value="+站点名称&#xa;+UUID&#xa;+root_area_id" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=32;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="tvqW-mT6Z6pj6yy6xD2d-582">
           <mxGeometry y="30" width="257.60283687943263" height="149.00481626270525" as="geometry" />
         </mxCell>
-        <mxCell id="tvqW-mT6Z6pj6yy6xD2d-584" value="Area" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=32;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="14">
+        <mxCell id="tvqW-mT6Z6pj6yy6xD2d-584" value="area" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=32;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="14">
           <mxGeometry x="44.06" y="970.82" width="183.94" height="337.18" as="geometry" />
         </mxCell>
         <mxCell id="tvqW-mT6Z6pj6yy6xD2d-585" value="+id&#xa;+name&#xa;+scene_id&#xa;+parent_id&#xa;+kind&#xa;+UUID&#xa;+map_id&#xa;+tags" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=32;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="tvqW-mT6Z6pj6yy6xD2d-584">
           <mxGeometry y="30" width="183.94" height="307.18" as="geometry" />
         </mxCell>
-        <mxCell id="tvqW-mT6Z6pj6yy6xD2d-587" value="Tag" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=32;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="14">
+        <mxCell id="tvqW-mT6Z6pj6yy6xD2d-587" value="tag" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=32;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="14">
           <mxGeometry x="304" y="993.58" width="252" height="302.42" as="geometry" />
         </mxCell>
         <mxCell id="tvqW-mT6Z6pj6yy6xD2d-588" value="+id&#xa;+scene_id&#xa;+host_name&#xa;+host_id&#xa;+namespace&#xa;+key&#xa;+value&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=32;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="tvqW-mT6Z6pj6yy6xD2d-587">
