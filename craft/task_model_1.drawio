@@ -1,4 +1,4 @@
-<mxfile modified="2022-05-29T12:20:28.788Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="0TXRroCCGfTtVLu0AXaT" version="17.4.6" type="github">
+<mxfile modified="2022-05-29T12:21:06.860Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="nm0EUlyRTJaF6M5ivg05" version="17.4.6" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="2060" dy="1194" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
           <mxGeometry x="164.85" y="43" width="1303.15" height="186.33" as="geometry" />
         </mxCell>
         <mxCell id="MLptsEWVuVLRwVdw8l3M-630" value="" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#82b366;shadow=0;dashed=0;strokeColor=none;fontSize=12;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#d5e8d4;" parent="MLptsEWVuVLRwVdw8l3M-627" vertex="1">
-          <mxGeometry x="172" y="244" width="1296" height="257.26" as="geometry" />
+          <mxGeometry x="184" y="244" width="1284" height="257.26" as="geometry" />
         </mxCell>
         <mxCell id="MLptsEWVuVLRwVdw8l3M-631" value="" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#d6b656;shadow=0;dashed=0;strokeColor=none;fontSize=12;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#fff2cc;" parent="MLptsEWVuVLRwVdw8l3M-627" vertex="1">
           <mxGeometry x="156.4266666666667" y="520.9142857142857" width="1325.9022222222225" height="147.42857142857144" as="geometry" />
@@ -151,23 +151,8 @@
         <mxCell id="MLptsEWVuVLRwVdw8l3M-638" value="" style="strokeColor=#dddddd;fillColor=#9999FF;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=10;fontColor=#9E9E9E;align=center;html=1;" parent="MLptsEWVuVLRwVdw8l3M-627" vertex="1">
           <mxGeometry x="156.18473185084952" y="530.7428571428571" width="384.6557377049182" height="41.28" as="geometry" />
         </mxCell>
-        <mxCell id="MLptsEWVuVLRwVdw8l3M-639" value="Passage" style="html=1;dashed=0;whitespace=wrap;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="MLptsEWVuVLRwVdw8l3M-627" vertex="1">
-          <mxGeometry x="540.8480300187618" y="108.11428571428571" width="209.631019387117" height="39.31428571428572" as="geometry" />
-        </mxCell>
-        <mxCell id="MLptsEWVuVLRwVdw8l3M-641" value="Tag" style="html=1;dashed=0;whitespace=wrap;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="MLptsEWVuVLRwVdw8l3M-627" vertex="1">
-          <mxGeometry x="1048.155096935585" y="157.25714285714287" width="209.631019387117" height="39.31428571428572" as="geometry" />
-        </mxCell>
-        <mxCell id="MLptsEWVuVLRwVdw8l3M-642" value="Endpoint" style="html=1;dashed=0;whitespace=wrap;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="MLptsEWVuVLRwVdw8l3M-627" vertex="1">
-          <mxGeometry x="787.5208505315825" y="108.11428571428571" width="209.631019387117" height="39.31428571428572" as="geometry" />
-        </mxCell>
-        <mxCell id="MLptsEWVuVLRwVdw8l3M-643" value="Map" style="html=1;dashed=0;whitespace=wrap;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="MLptsEWVuVLRwVdw8l3M-627" vertex="1">
-          <mxGeometry x="792.4052532833024" y="157.25714285714287" width="209.631019387117" height="39.31428571428572" as="geometry" />
-        </mxCell>
         <mxCell id="MLptsEWVuVLRwVdw8l3M-650" value="&lt;font style=&quot;font-size: 20px&quot;&gt;SiteDataSyncService&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=22;" parent="MLptsEWVuVLRwVdw8l3M-627" vertex="1">
           <mxGeometry x="792.4086053783617" y="319.27571428571423" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MLptsEWVuVLRwVdw8l3M-653" value="Robot" style="html=1;dashed=0;whitespace=wrap;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="MLptsEWVuVLRwVdw8l3M-627" vertex="1">
-          <mxGeometry x="1048.155096935585" y="108.11428571428571" width="209.631019387117" height="39.31428571428572" as="geometry" />
         </mxCell>
         <mxCell id="MLptsEWVuVLRwVdw8l3M-656" value="DSceneSyncTask" style="html=1;dashed=0;whitespace=wrap;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="MLptsEWVuVLRwVdw8l3M-627" vertex="1">
           <mxGeometry x="800.004771732333" y="363.6614285714286" width="209.631019387117" height="39.31428571428572" as="geometry" />
