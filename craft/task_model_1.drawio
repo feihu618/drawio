@@ -1,4 +1,4 @@
-<mxfile modified="2022-05-30T00:51:23.792Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="qofrwuAzdR2TRQykVD0E" version="17.4.6" type="github">
+<mxfile modified="2022-05-30T00:55:09.678Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="Sfk0znRjJTcindm9KghN" version="17.4.6" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="2060" dy="1194" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -169,11 +169,11 @@
         <mxCell id="dCqn079QqKPkeW7fLl61-590" value="local_map_uuid" style="html=1;dashed=0;whitespace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="MLptsEWVuVLRwVdw8l3M-627">
           <mxGeometry x="724.8695495401114" y="184" width="178.65611571612075" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="dCqn079QqKPkeW7fLl61-584" value="&lt;span style=&quot;font-size: 12px&quot;&gt;SceneSyncTask List&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="MLptsEWVuVLRwVdw8l3M-627">
-          <mxGeometry x="534.9992173276947" y="30" width="120" height="32" as="geometry" />
+        <mxCell id="dCqn079QqKPkeW7fLl61-584" value="&lt;span style=&quot;font-size: 12px&quot;&gt;scene_sync_task_list&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="MLptsEWVuVLRwVdw8l3M-627">
+          <mxGeometry x="530.9992173276947" y="30" width="128" height="32" as="geometry" />
         </mxCell>
         <mxCell id="MLptsEWVuVLRwVdw8l3M-635" value="" style="rounded=1;arcSize=10;fillColor=none;gradientColor=none;strokeWidth=2;" parent="MLptsEWVuVLRwVdw8l3M-627" vertex="1">
-          <mxGeometry x="505.33197791950465" y="32" width="182.9479763505056" height="180" as="geometry" />
+          <mxGeometry x="504" y="36" width="184.28" height="176" as="geometry" />
         </mxCell>
         <mxCell id="dCqn079QqKPkeW7fLl61-592" value="&lt;font style=&quot;font-size: 16px&quot;&gt;downloaded_map_list&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="MLptsEWVuVLRwVdw8l3M-627">
           <mxGeometry x="731.6139019655733" y="36" width="168" height="28" as="geometry" />
