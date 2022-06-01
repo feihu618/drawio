@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T02:29:02.235Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="oSgYuPAyhOf2AeyFb5sS" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-01T02:34:07.516Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="RnGNRngyw9-abwkHzqzd" version="17.4.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1298" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -220,7 +220,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zW2rU7sLpA4Js3mjXMdc-7" value="通知梯控服务" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;exitX=1.331;exitY=0.378;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="zW2rU7sLpA4Js3mjXMdc-1">
+        <mxCell id="zW2rU7sLpA4Js3mjXMdc-7" value="通知梯控服务/BindDevMessage" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;exitX=1.331;exitY=0.378;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="zW2rU7sLpA4Js3mjXMdc-1">
           <mxGeometry x="0.1907" relative="1" as="geometry">
             <mxPoint x="159.99999999999994" y="700" as="sourcePoint" />
             <mxPoint as="offset" />
