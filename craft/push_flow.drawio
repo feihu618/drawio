@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T09:15:58.101Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="CWwmmJkJlhg20mGe7KN_" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-14T09:16:51.430Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="60fzFy3GBdayEGIcNQUL" version="18.2.0" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1298" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -142,9 +142,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3o3wZ-A4HvLcNPkHUDMv-9" value="UpgradeProgressMessage" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="880" y="200" width="180" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="3o3wZ-A4HvLcNPkHUDMv-12" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="270" as="targetPoint" />
@@ -152,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3o3wZ-A4HvLcNPkHUDMv-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="297" y="245" width="10" height="75" as="geometry" />
+          <mxGeometry x="295" y="245" width="10" height="75" as="geometry" />
         </mxCell>
         <mxCell id="3o3wZ-A4HvLcNPkHUDMv-14" value="检查是否S线" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="-0.2336" relative="1" as="geometry">
