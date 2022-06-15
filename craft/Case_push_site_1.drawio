@@ -1,28 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T06:33:11.162Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="rofzBJ1tkoqX51ocDwun" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-15T12:35:27.137Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="u1xIajb4opQ2QoeQTNZn" version="18.2.0" type="github">
   <diagram id="p5NBLqzSTFIIDADKYXvf" name="Page-1">
     <mxGraphModel dx="1298" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-CZ4SJs_n75rVengpm8A-1" value="连接机器人" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="465" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="-CZ4SJs_n75rVengpm8A-2" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+        <mxCell id="-CZ4SJs_n75rVengpm8A-2" value="用户1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="450" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="-CZ4SJs_n75rVengpm8A-6" value="选择机器人" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="465" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="-CZ4SJs_n75rVengpm8A-10" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="dl_aMtKgIvR_t_I3cdD3-4" target="-CZ4SJs_n75rVengpm8A-6" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="285.00393571937116" y="416.64813534336713" as="sourcePoint" />
-            <mxPoint x="402.03999999999996" y="463.02" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-CZ4SJs_n75rVengpm8A-22" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" parent="1" target="-CZ4SJs_n75rVengpm8A-1" edge="1">
+        <mxCell id="-CZ4SJs_n75rVengpm8A-22" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="dl_aMtKgIvR_t_I3cdD3-12" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="90" y="470" as="sourcePoint" />
-            <mxPoint x="250" y="470" as="targetPoint" />
+            <mxPoint x="170" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dl_aMtKgIvR_t_I3cdD3-2" value="创建升级包" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -64,31 +52,11 @@
             <mxPoint x="980" y="619.99" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-12" value="可用版本" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="600" width="130" height="70" as="geometry" />
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-12" value="获取升级版本信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="395" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-13" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.454;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-CZ4SJs_n75rVengpm8A-1" target="dl_aMtKgIvR_t_I3cdD3-12">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="100" y="480" as="sourcePoint" />
-            <mxPoint x="175.65984789873596" y="496.212824549729" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-14" value="下载" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="700" width="130" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-15" value="主动查询" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="550" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dl_aMtKgIvR_t_I3cdD3-16" target="dl_aMtKgIvR_t_I3cdD3-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-16" value="" style="shape=mxgraph.gcp2.doubleRect;strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
-          <mxGeometry x="366.73" y="601" width="168" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-17" value="&lt;font color=&quot;#000000&quot;&gt;ATO&lt;/font&gt;" style="editableCssRules=.*;html=1;fontColor=#999999;shape=image;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;verticalAlign=middle;labelPosition=right;align=left;spacingLeft=20;part=1;points=[];imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE5Ljk4OTk5OTc3MTExODE2NCIgdmlld0JveD0iMCAwIDIwIDE5Ljk4OTk5OTc3MTExODE2NCI+JiN4YTsJPHN0eWxlIHR5cGU9InRleHQvY3NzIj4mI3hhOwkuc3Qwe2ZpbGw6IzQyODVmNDt9JiN4YTsJLnN0MXtmaWxsOiM2NjlkZjY7fSYjeGE7CS5zdDJ7ZmlsbDojYWVjYmZhO30mI3hhOwk8L3N0eWxlPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik0zIDMuOTlMMCA2LjQydjcuMTNsMyAyLjQ0eiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0zIDMuOTlsLTMgNCAzLTJ6bS0zIDhsMyA0di0yeiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDIiIGQ9Ik0wIDE1Ljk5bDQgNCAyLTItNi02em0uMDEtOEw1Ljk5IDJsLTItMkwwIDMuOTl6Ii8+JiN4YTsJPHBhdGggY2xhc3M9InN0MSIgZD0iTTE3IDE2bDMtMi40MlY2LjQ0TDE3IDR6Ii8+JiN4YTsJPHBhdGggY2xhc3M9InN0MCIgZD0iTTE3IDE2bDMtNC0zIDJ6bTMtOGwtMy00djJ6Ii8+JiN4YTsJPGcgY2xhc3M9InN0MiI+JiN4YTsJCTxwYXRoIGQ9Ik0yMCA0bC00LTQtMiAyIDYgNnptLS4wMSA4bC01Ljk4IDUuOTkgMiAyTDIwIDE2eiIvPiYjeGE7CQk8Y2lyY2xlIGN4PSI2IiBjeT0iOS45OSIgcj0iMSIvPiYjeGE7CQk8Y2lyY2xlIGN4PSIxMCIgY3k9IjkuOTkiIHI9IjEiLz4mI3hhOwkJPGNpcmNsZSBjeD0iMTMuOTkiIGN5PSI5Ljk5IiByPSIxIi8+JiN4YTsJPC9nPiYjeGE7PC9zdmc+;" vertex="1" parent="dl_aMtKgIvR_t_I3cdD3-16">
-          <mxGeometry width="30" height="24" relative="1" as="geometry">
-            <mxPoint x="15" y="18" as="offset" />
-          </mxGeometry>
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-14" value="点击下载固件包" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="182" y="505" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dl_aMtKgIvR_t_I3cdD3-18" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dl_aMtKgIvR_t_I3cdD3-2" target="dl_aMtKgIvR_t_I3cdD3-4">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -96,65 +64,53 @@
             <mxPoint x="964.7993802055425" y="418.2385830527453" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-19" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/webp,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" vertex="1" parent="1">
-          <mxGeometry x="370" y="400" width="161.46" height="135" as="geometry" />
-        </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-20" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-CZ4SJs_n75rVengpm8A-1" target="dl_aMtKgIvR_t_I3cdD3-19">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="240" y="545" as="sourcePoint" />
-            <mxPoint x="239.01999999999998" y="607.97" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-21" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-CZ4SJs_n75rVengpm8A-6" target="dl_aMtKgIvR_t_I3cdD3-19">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="310" y="510" as="sourcePoint" />
-            <mxPoint x="380" y="494.9067869700789" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-23" value="&lt;span style=&quot;&quot;&gt;推送&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="310" y="610" width="40" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="dl_aMtKgIvR_t_I3cdD3-24" value="取消下载" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="379" y="700" width="130" height="70" as="geometry" />
+          <mxGeometry x="182" y="616" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-25" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-25" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.008;entryY=0.329;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dl_aMtKgIvR_t_I3cdD3-24">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="100" y="480" as="sourcePoint" />
-            <mxPoint x="160" y="710" as="targetPoint" />
+            <mxPoint x="180" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-26" value="升级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="165" y="870" width="130" height="70" as="geometry" />
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-26" value="安装固件" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="182" y="710" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-27" value="取消升级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="379" y="870" width="130" height="70" as="geometry" />
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-27" value="获取升级状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="182" y="820" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-28" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-28" value="用户2" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="810" width="70" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-29" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.386;entryDx=0;entryDy=0;exitX=1.023;exitY=0.386;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="dl_aMtKgIvR_t_I3cdD3-14" target="dl_aMtKgIvR_t_I3cdD3-24">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="837" y="510" as="sourcePoint" />
-            <mxPoint x="750" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-30" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="dl_aMtKgIvR_t_I3cdD3-26" target="dl_aMtKgIvR_t_I3cdD3-27">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="312.99" y="737.02" as="sourcePoint" />
-            <mxPoint x="360" y="737.02" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="dl_aMtKgIvR_t_I3cdD3-31" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dl_aMtKgIvR_t_I3cdD3-28">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="110" y="490" as="sourcePoint" />
-            <mxPoint x="170" y="720" as="targetPoint" />
+            <mxPoint x="180" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-32" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dl_aMtKgIvR_t_I3cdD3-28" target="dl_aMtKgIvR_t_I3cdD3-26">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-32" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="dl_aMtKgIvR_t_I3cdD3-26">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="100" y="853.3333333333333" as="sourcePoint" />
+            <mxPoint x="100" y="840" as="sourcePoint" />
             <mxPoint x="180" y="730" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-35" value="获取机器人网络状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="920" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-36" value="推升级包" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="820" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-37" value="下发下载" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="930" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-38" value="下发安装" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1020" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-39" value="下发取消下载" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="930" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-40" value="机器人上报状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1099" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
