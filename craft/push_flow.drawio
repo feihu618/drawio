@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T02:05:11.464Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="jHTLCxuZzBA3vjTC0rHT" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T03:53:03.145Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="C1uexTaYoNZw_N8L0uTW" version="18.2.0" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1750" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -171,7 +171,7 @@
         <mxCell id="3o3wZ-A4HvLcNPkHUDMv-20" value="UpgradeInfo" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="810" y="480" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="3o3wZ-A4HvLcNPkHUDMv-21" value="+release_id&#xa;+current_version&#xa;+target_version&#xa;+fix:......." style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="3o3wZ-A4HvLcNPkHUDMv-20">
+        <mxCell id="3o3wZ-A4HvLcNPkHUDMv-21" value="+release_note&#xa;+current_version&#xa;+target_version&#xa;+package_size&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="3o3wZ-A4HvLcNPkHUDMv-20">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3o3wZ-A4HvLcNPkHUDMv-29" value="Device" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
