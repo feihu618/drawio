@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T03:46:51.190Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="j8OuAmW5RHCrlj8AdJOY" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T03:51:26.028Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="M3BNxa2Rhnb2_xyPNAOS" version="18.2.0" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1298" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
         <mxCell id="7baba1c4bc27f4b0-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="585" y="220" width="10" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-17" value="下载bundle" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
+        <mxCell id="7baba1c4bc27f4b0-17" value="检查是否允许" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="455" y="272" as="sourcePoint" />
             <Array as="points">
@@ -87,7 +87,7 @@
             <mxPoint x="220" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-14" value="download命令" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;" parent="1" edge="1">
+        <mxCell id="7baba1c4bc27f4b0-14" value="下发安装命令" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="305" y="255" as="sourcePoint" />
             <mxPoint x="445" y="255.00000000000023" as="targetPoint" />
@@ -183,14 +183,20 @@
         <mxCell id="sWhF9e7TTx62POClrcet-14" value="+release_id&#xa;+current_version&#xa;+target_version&#xa;+fix:......." style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="sWhF9e7TTx62POClrcet-13" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="sWhF9e7TTx62POClrcet-15" value="UpgradeProgress" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
-          <mxGeometry x="700" y="380" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="sWhF9e7TTx62POClrcet-16" value="+release_id&#xa;+current_version&#xa;+target_version&#xa;+fix:......." style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="sWhF9e7TTx62POClrcet-15" vertex="1">
-          <mxGeometry y="30" width="160" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="LUJKVg6w3DZAoAs-xCfy-3" value="更新Device??" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="355" y="520" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LUJKVg6w3DZAoAs-xCfy-5" value="不允许，直接返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455" y="300" as="targetPoint" />
+            <mxPoint x="585" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUJKVg6w3DZAoAs-xCfy-6" value="更新状态" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" edge="1" parent="1" target="3o3wZ-A4HvLcNPkHUDMv-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="304.5" as="targetPoint" />
+            <mxPoint x="445" y="304.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
