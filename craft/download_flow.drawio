@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T06:56:48.096Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="Nfk2PCKAlrrldJULx8D2" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T07:02:03.677Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="xS03TR5ijBP-O_EGwzin" version="18.2.0" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1750" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -43,10 +43,10 @@
           <mxGeometry x="540" y="80" width="100" height="580" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-8" value=":App端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="110" y="80" width="110" height="580" as="geometry" />
+          <mxGeometry x="110" y="80" width="110" height="620" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-8" vertex="1">
-          <mxGeometry x="45" y="100" width="10" height="470" as="geometry" />
+          <mxGeometry x="45" y="100" width="10" height="520" as="geometry" />
         </mxCell>
         <mxCell id="nKYfHs4xCDxU2rANH8Kp-14" value="Loop" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#33FF99;gradientColor=none;shadow=0;dashed=1;strokeColor=#4284F3;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=none;dashPattern=1 2;strokeWidth=2;" parent="7baba1c4bc27f4b0-8" vertex="1">
           <mxGeometry y="276" width="510" height="120" as="geometry" />
@@ -74,6 +74,11 @@
               <mxPoint x="460" y="299" />
             </Array>
             <mxPoint x="585" y="299" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sWhF9e7TTx62POClrcet-21" value="&lt;span style=&quot;font-family: Verdana; font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;检查状态是否允许&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7baba1c4bc27f4b0-17">
+          <mxGeometry x="-0.0462" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-11" value="下载" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-10" edge="1">
@@ -209,6 +214,12 @@
               <mxPoint x="649.62" y="337.9" />
             </Array>
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sWhF9e7TTx62POClrcet-22" value="不允许直接返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455" y="327" as="targetPoint" />
+            <mxPoint x="585" y="327" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
