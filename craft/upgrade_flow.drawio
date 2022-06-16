@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T09:17:15.592Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="Rv_BdZ6SCywGx1r3piK8" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T12:56:33.064Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="YO42sCzPtUZeUTN8q8Ss" version="18.2.0" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1298" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,12 +176,6 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="sWhF9e7TTx62POClrcet-13" value="InstallCommond" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
-          <mxGeometry x="773" y="150" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="sWhF9e7TTx62POClrcet-14" value="+release_id&#xa;+current_version&#xa;+target_version" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="sWhF9e7TTx62POClrcet-13" vertex="1">
-          <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LUJKVg6w3DZAoAs-xCfy-7" value="开始安装升级包" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-4" edge="1">
           <mxGeometry x="-0.2336" relative="1" as="geometry">
