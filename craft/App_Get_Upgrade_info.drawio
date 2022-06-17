@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T06:52:21.900Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="cFPQlRcPi0uT7-zSiFDm" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-17T07:04:58.185Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="CbPi0_Gnj9-tfHIFiAsA" version="20.0.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1538" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -21,6 +21,20 @@
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-8" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="oCEPXq0D7RGe8RJcv971-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="7baba1c4bc27f4b0-8">
+          <mxGeometry x="55" y="180" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oCEPXq0D7RGe8RJcv971-2" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" edge="1" parent="7baba1c4bc27f4b0-8">
+          <mxGeometry x="0.1875" y="10" relative="1" as="geometry">
+            <mxPoint x="65" y="200" as="sourcePoint" />
+            <mxPoint x="69.61999999999989" y="237.92000000000007" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="119.62" y="199.89999999999998" />
+              <mxPoint x="119.62" y="237.89999999999998" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-11" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;获取升级版本信息&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -48,7 +62,7 @@
             <mxPoint x="295" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3o3wZ-A4HvLcNPkHUDMv-12" value="返回升级信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" parent="1" edge="1" target="7baba1c4bc27f4b0-8">
+        <mxCell id="3o3wZ-A4HvLcNPkHUDMv-12" value="返回升级信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="270" as="targetPoint" />
             <mxPoint x="290" y="270" as="sourcePoint" />
@@ -66,7 +80,7 @@
         <mxCell id="3o3wZ-A4HvLcNPkHUDMv-20" value="UpgradeInfo" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="514" y="440" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="3o3wZ-A4HvLcNPkHUDMv-21" value="+release_note//升级信息&#xa;+current_version&#xa;+target_version&#xa;+site //升级文件大小&#xa;+state //升级状态" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="3o3wZ-A4HvLcNPkHUDMv-20" vertex="1">
+        <mxCell id="3o3wZ-A4HvLcNPkHUDMv-21" value="+release_note//升级信息&#xa;+current_version&#xa;+target_version&#xa;+size //升级文件大小&#xa;+state //升级状态" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="3o3wZ-A4HvLcNPkHUDMv-20" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3o3wZ-A4HvLcNPkHUDMv-29" value="upgrade_record" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
