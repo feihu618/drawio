@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T07:46:00.668Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="p7XMq06LDisKC49vPsP4" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-17T10:58:30.693Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="8hP4GOwj2Ec76q06SFaD" version="20.0.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1538" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,7 +53,7 @@
             <mxPoint x="220" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-14" value="下发download命令" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;" parent="1" edge="1">
+        <mxCell id="7baba1c4bc27f4b0-14" value="下发CancelDownload命令" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="305" y="255" as="sourcePoint" />
             <mxPoint x="445" y="255.00000000000023" as="targetPoint" />
@@ -110,7 +110,7 @@
             <mxPoint x="290" y="272" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UB75yKHnW4iNQ3inG6dB-1" value="取消下载" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="UB75yKHnW4iNQ3inG6dB-1" value="取消下载" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="-0.2336" relative="1" as="geometry">
             <mxPoint x="595" y="269.9999999999999" as="sourcePoint" />
             <mxPoint x="599.6199999999999" y="307.91999999999996" as="targetPoint" />
@@ -121,19 +121,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UB75yKHnW4iNQ3inG6dB-2" value="拉取状态" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+        <mxCell id="UB75yKHnW4iNQ3inG6dB-2" value="拉取状态" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="165" y="389" as="sourcePoint" />
             <mxPoint x="285" y="389.0000000000009" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UB75yKHnW4iNQ3inG6dB-3" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" edge="1" parent="1">
+        <mxCell id="UB75yKHnW4iNQ3inG6dB-3" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="166" y="409" as="targetPoint" />
             <mxPoint x="280" y="409" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UB75yKHnW4iNQ3inG6dB-4" value="下载" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+        <mxCell id="UB75yKHnW4iNQ3inG6dB-4" value="下载" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="167" y="452" as="sourcePoint" />
             <mxPoint x="287" y="452.0000000000009" as="targetPoint" />
