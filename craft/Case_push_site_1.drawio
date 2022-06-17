@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T12:36:28.660Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="pCTuvUprOfjfZakLI1KG" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-17T06:25:03.780Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="IhZGqjFrOUDy8gtKpGSE" version="20.0.1" type="github">
   <diagram id="p5NBLqzSTFIIDADKYXvf" name="Page-1">
-    <mxGraphModel dx="1298" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1538" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,103 +13,103 @@
             <mxPoint x="170" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-2" value="创建升级包" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-2" value="创建升级包" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="360" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-3" value="FAE" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-3" value="FAE" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="1060" y="400" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-4" value="推送" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-4" value="推送" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="827" y="465" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-6" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.229;exitY=0.335;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dl_aMtKgIvR_t_I3cdD3-3" target="dl_aMtKgIvR_t_I3cdD3-2">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-6" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.229;exitY=0.335;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="dl_aMtKgIvR_t_I3cdD3-3" target="dl_aMtKgIvR_t_I3cdD3-2" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="494" y="475" as="sourcePoint" />
             <mxPoint x="570" y="545" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-7" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.229;exitY=0.335;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-7" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.229;exitY=0.335;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1086.0300000000002" y="443.5" as="sourcePoint" />
             <mxPoint x="970" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-8" value="召回" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-8" value="召回" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="585" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-9" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.229;exitY=0.335;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.357;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dl_aMtKgIvR_t_I3cdD3-8">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-9" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.357;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="dl_aMtKgIvR_t_I3cdD3-8" edge="1" source="dl_aMtKgIvR_t_I3cdD3-3">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1096.0300000000002" y="453.5" as="sourcePoint" />
             <mxPoint x="980" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-10" value="降级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-10" value="降级" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="680" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-11" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.229;exitY=0.335;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.993;entryY=0.293;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dl_aMtKgIvR_t_I3cdD3-10">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-11" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.993;entryY=0.293;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="dl_aMtKgIvR_t_I3cdD3-10" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1106.0300000000002" y="463.5" as="sourcePoint" />
+            <mxPoint x="1060" y="500" as="sourcePoint" />
             <mxPoint x="980" y="619.99" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-12" value="获取升级版本信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-12" value="获取升级版本信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="395" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-14" value="点击下载固件包" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-14" value="点击下载固件包" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="182" y="505" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-18" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dl_aMtKgIvR_t_I3cdD3-2" target="dl_aMtKgIvR_t_I3cdD3-4">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-18" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dl_aMtKgIvR_t_I3cdD3-2" target="dl_aMtKgIvR_t_I3cdD3-4" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1086.0300000000002" y="443.5" as="sourcePoint" />
             <mxPoint x="964.7993802055425" y="418.2385830527453" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-24" value="取消下载" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-24" value="取消下载" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="182" y="616" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-25" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.008;entryY=0.329;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dl_aMtKgIvR_t_I3cdD3-24">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-25" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.008;entryY=0.329;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="dl_aMtKgIvR_t_I3cdD3-24" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="100" y="480" as="sourcePoint" />
             <mxPoint x="180" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-26" value="安装固件" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-26" value="安装固件" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="182" y="710" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-27" value="获取升级状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-27" value="获取升级状态" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="182" y="820" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-28" value="用户2" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-28" value="用户2" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="810" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-31" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dl_aMtKgIvR_t_I3cdD3-28">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-31" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="dl_aMtKgIvR_t_I3cdD3-28" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="110" y="490" as="sourcePoint" />
             <mxPoint x="180" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-32" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="dl_aMtKgIvR_t_I3cdD3-26">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-32" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="dl_aMtKgIvR_t_I3cdD3-26" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="100" y="840" as="sourcePoint" />
             <mxPoint x="180" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-35" value="获取机器人网络状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-35" value="获取机器人网络状态" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="920" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-36" value="推升级包" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-36" value="推升级包" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="820" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-37" value="下发下载" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-37" value="下发下载" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="926" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-38" value="下发安装" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-38" value="下发安装" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="1020" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-39" value="下发取消下载" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-39" value="下发取消下载" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="930" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aMtKgIvR_t_I3cdD3-40" value="机器人上报状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dl_aMtKgIvR_t_I3cdD3-40" value="机器人上报状态" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="1099" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
