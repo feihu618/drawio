@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T04:52:43.947Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="oANJ-UvnDTRXS3JO8OGh" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-12T05:56:53.184Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="hxqGBxuy2HHSATdfir2i" version="20.2.3" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1298" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7baba1c4bc27f4b0-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="585" y="180" width="10" height="390" as="geometry" />
+        </mxCell>
         <mxCell id="7baba1c4bc27f4b0-2" value=":pcs服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="240" y="80" width="100" height="600" as="geometry" />
         </mxCell>
@@ -20,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VVGi2ne_kL_Bnbhiapt8-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-2" vertex="1">
-          <mxGeometry x="55" y="277" width="10" height="143" as="geometry" />
+          <mxGeometry x="55" y="277" width="10" height="183" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-3" value=":Robot服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="400" y="80" width="100" height="580" as="geometry" />
@@ -39,7 +42,7 @@
           <mxGeometry x="540" y="80" width="100" height="580" as="geometry" />
         </mxCell>
         <mxCell id="t7zXVuiCobnFSWgjzZEa-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-4" vertex="1">
-          <mxGeometry x="55" y="238.75" width="10" height="141.25" as="geometry" />
+          <mxGeometry x="55" y="238.75" width="10" height="231.25" as="geometry" />
         </mxCell>
         <mxCell id="t7zXVuiCobnFSWgjzZEa-2" value="机器远程登录" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" parent="7baba1c4bc27f4b0-4" edge="1">
           <mxGeometry x="-0.2336" relative="1" as="geometry">
@@ -52,11 +55,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sWhF9e7TTx62POClrcet-1" value="拉取端口" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" parent="7baba1c4bc27f4b0-4" edge="1" target="VVGi2ne_kL_Bnbhiapt8-4">
-          <mxGeometry x="-0.4882" y="-10" relative="1" as="geometry">
-            <mxPoint x="-90" y="370" as="targetPoint" />
-            <mxPoint x="40.5" y="370" as="sourcePoint" />
-            <mxPoint x="1" as="offset" />
+        <mxCell id="sWhF9e7TTx62POClrcet-1" value="拉取端口" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" parent="7baba1c4bc27f4b0-4" edge="1">
+          <mxGeometry x="-0.4576" relative="1" as="geometry">
+            <mxPoint x="-235" y="440" as="targetPoint" />
+            <mxPoint x="60" y="440" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-8" value=":Web端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
@@ -74,9 +77,6 @@
         </mxCell>
         <mxCell id="tVU4Z-qrTUNsK-4DYAnP-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-8" vertex="1">
           <mxGeometry x="55" y="140" width="10" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="585" y="180" width="10" height="390" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-11" value="设置远程可操作" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0.062;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-13" edge="1">
           <mxGeometry x="0.3929" y="11" relative="1" as="geometry">
@@ -102,7 +102,7 @@
             <mxPoint x="295" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3o3wZ-A4HvLcNPkHUDMv-4" value="调用去远程登录" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" parent="1" target="VVGi2ne_kL_Bnbhiapt8-4" edge="1">
+        <mxCell id="3o3wZ-A4HvLcNPkHUDMv-4" value="调用远程登录" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" parent="1" target="VVGi2ne_kL_Bnbhiapt8-4" edge="1">
           <mxGeometry x="0.3869" y="-10" relative="1" as="geometry">
             <mxPoint x="460" y="370" as="targetPoint" />
             <mxPoint x="580" y="370" as="sourcePoint" />
@@ -161,6 +161,27 @@
         </mxCell>
         <mxCell id="tVU4Z-qrTUNsK-4DYAnP-9" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="710" y="30" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="o3-MhIJSFL77jd2BRlx6-2" value="响应" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;" edge="1" parent="1" target="VVGi2ne_kL_Bnbhiapt8-4">
+          <mxGeometry x="-0.1305" relative="1" as="geometry">
+            <mxPoint x="640" y="490" as="targetPoint" />
+            <mxPoint x="755" y="490.5" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o3-MhIJSFL77jd2BRlx6-3" value="响应" style="html=1;verticalAlign=bottom;endArrow=none;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1" source="7baba1c4bc27f4b0-4">
+          <mxGeometry x="-0.1305" relative="1" as="geometry">
+            <mxPoint x="310" y="530" as="targetPoint" />
+            <mxPoint x="425" y="530.5" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o3-MhIJSFL77jd2BRlx6-4" value="远程登录" style="html=1;verticalAlign=bottom;endArrow=none;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;entryX=1.4;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1" target="t7zXVuiCobnFSWgjzZEa-1">
+          <mxGeometry x="0.1644" y="-10" relative="1" as="geometry">
+            <mxPoint x="480" y="550" as="targetPoint" />
+            <mxPoint x="755" y="550" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
